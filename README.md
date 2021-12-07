@@ -28,10 +28,11 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Hillary Gabrielle Galarraga Carrillo
 
 ## INFORMACIÓN ADICIONAL
 
-- Página de la Univerdidad de Cambridge para entrenamiento en Bioinformática: <https://bioinfotraining.bio.cam.ac.uk/>
+<https://bioinfotraining.bio.cam.ac.uk/>
 
 
 
